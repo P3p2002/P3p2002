@@ -10,4 +10,4 @@ Languages and tools:
 <img src="./Images/c-svgrepo-com.svg" align="left" height="40" width="40" >
 <img src="./Images/latex-svgrepo-com.svg" align="left" height="40" width="40" >
 <img src="./Images/jupyter-svgrepo-com.svg" align="left" height="40" width="40" >
-<img src="./Images/logo_mathematica.png" align="left" height="40" width="40" >
+<img src="./Images/logo_mathematica.jpeg" align="left" height="40" width="40" >
